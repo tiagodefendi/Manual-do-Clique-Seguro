@@ -1,6 +1,6 @@
 # Manual do Clique Seguro
 
-Trabalho Final da matéria Objetos de Aprendizagem.
+Repositório com a documentação do Trabalho Final da matéria Objetos de Aprendizagem.
 
 ## Descrição do Projeto
 
