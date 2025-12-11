@@ -27,6 +27,15 @@ Mapa Conceitual:
 Modelo Instrucional:
 - O Modelo Instrucional do Objeto de Aprendizagem pode ser visualizado [aqui](https://drive.google.com/file/d/1do2nlK1ncjFqW222IG9ootDm0ZIjGhbW/view?usp=sharing).
 
+Videoaula com o Objeto de Aprendizagem:
+ - O Plano de Aula da aula pode ser visualizado [aqui](https://github.com/tiagodefendi/Manual-do-Clique-Seguro/tree/main/Plano-de-Aula).
+ - A Videoaula do Objeto de Aprendizagem pode ser visualizado [aqui]().
+
+Implementação do Objeto de Aprendizagem:
+ - A implementação do Objeto de Aprendizagem foi dividido em dois repositórios um para o backend outro para o frontend.
+ - O backend do Objeto de Aprendizagem pode ser visualizado [aqui](https://github.com/tiagodefendi/Manual-do-Clique-Seguro-back).
+ - O frontend do Objeto de Aprendizagem pode ser visualizado [aqui](https://github.com/tiagodefendi/Manual-do-Clique-Seguro-front).
+
 ## Tecnologias Utilizadas
 
 - **NestJS**: Framework para construção de aplicações Node.js escaláveis e eficientes.
