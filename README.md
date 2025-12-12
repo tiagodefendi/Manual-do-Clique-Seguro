@@ -36,6 +36,9 @@ Implementação do Objeto de Aprendizagem:
  - O backend do Objeto de Aprendizagem pode ser visualizado [aqui](https://github.com/tiagodefendi/Manual-do-Clique-Seguro-back).
  - O frontend do Objeto de Aprendizagem pode ser visualizado [aqui](https://github.com/tiagodefendi/Manual-do-Clique-Seguro-front).
 
+### Como usar o Objeto?
+ - Acesse os repositórios no GitHub da implementação do back e do front e siga as instruções no README de cada projeto.
+
 ## Tecnologias Utilizadas
 
 - **NestJS**: Framework para construção de aplicações Node.js escaláveis e eficientes.
