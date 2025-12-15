@@ -13,7 +13,7 @@
 Ensinar conceitos fundamentais de segurança digital para que os idosos possam reconhecer ameaças comuns e proteger suas contas, dados e dispositivos.
 
 - Objetivos Específicos
-    - Ao final do módulo, o aluno deve ser capaz de: 
+    - Ao final do módulo, o aluno deve ser capaz de:
         - Entender a importância de proteger senhas e contas.
         - Identificar situações de roubo de conta e seus riscos.
         - Reconhecer o valor dos dados pessoais e por que criminosos os desejam.
@@ -46,5 +46,10 @@ Ensinar conceitos fundamentais de segurança digital para que os idosos possam r
     - Como checar informações
 
 
-* Aprendizagem ativa
+4. AVALIAÇÃO
+- Quiz interativo:
     - Os alunos respondem ao quiz e recebem uma explicação detalhada sobre a veracidade ou falsidade da resposta, promovendo um aprendizado por reforço.
+
+6. REFERÊNCIAS
+
+ADICIONAR AS REFS
