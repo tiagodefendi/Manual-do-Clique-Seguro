@@ -52,4 +52,12 @@ Ensinar conceitos fundamentais de segurança digital para que os idosos possam r
 
 6. REFERÊNCIAS
 
-ADICIONAR AS REFS
+CIBERSEGURANÇA para leigos. [S.l.: s.n., s.d.]. Disponível em: https://www.livros1.com.br/pdf-read/livar/CIBERSEGURAN%C3%87A-PARA-LEIGOS.pdf. Acesso em: 16 dez. 2025.
+
+CRESOL. Segurança na internet. 2023. Disponível em: https://blog.cresol.com.br/seguranca-na-internet/. Acesso em: 16 dez. 2025.
+
+GCF GLOBAL. O que é segurança na internet. [S.d.]. Disponível em: https://edu.gcfglobal.org/pt/seguranca-na-internet/o-que-e-seguranca-na-internet/1/. Acesso em: 16 dez. 2025.
+
+KASPERSKY. O que é segurança na internet? [S.d.]. Disponível em: https://www.kaspersky.com.br/resource-center/definitions/what-is-internet-security. Acesso em: 16 dez. 2025.
+
+LEVEL GROUP. Cibersegurança: guia básico para iniciantes. 2021. Disponível em: https://levelgroup.com.br/blog/ciberseguranca-guia-basico-para-iniciantes/. Acesso em: 16 dez. 2025.
