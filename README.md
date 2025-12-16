@@ -29,7 +29,7 @@ Modelo Instrucional:
 
 Videoaula com o Objeto de Aprendizagem:
  - O Plano de Aula da aula pode ser visualizado [aqui](https://github.com/tiagodefendi/Manual-do-Clique-Seguro/tree/main/Plano-de-Aula).
- - A Videoaula do Objeto de Aprendizagem pode ser visualizado [aqui]().
+ - A Videoaula do Objeto de Aprendizagem pode ser visualizado [aqui](https://youtu.be/FqYJr-pGDOw).
 
 Implementação do Objeto de Aprendizagem:
  - A implementação do Objeto de Aprendizagem foi dividido em dois repositórios um para o backend outro para o frontend.
